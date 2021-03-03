@@ -1,3 +1,3 @@
-module github.com/ld140319/module_repository_no
+module github.com/ld140319/module_repository
 
 go 1.13
